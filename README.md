@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/RXJXrVNAOOCsTzBOU5/giphy.gif" width="29px" height="29px"></h1>
+<h4 align="center">I'm Sandaruwan. Friends call me <i>S4NDM4N</i></h4>
 
+*  :keyboard: Things I type: [**C#**:heart:](https://dotnet.microsoft.com/en-us/languages/csharp) | [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) | [Bash:purple_heart:](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [PHP](https://www.php.net/) | [JavaScript](https://www.javascript.com/) | [SQL](https://en.wikipedia.org/wiki/SQL).
 <!--
 **s4ndm4n82/s4ndm4n82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
