@@ -10,7 +10,7 @@
 *  :speech_balloon: Please ask me about anything about [C family](https://www.bairesdev.com/blog/c-family-programming-languages-differences).
 <p align="center">
   <img src="https://raw.githubusercontent.com/s4ndm4n82/gitstatus/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/s4ndm4n82/gitstatus/master/generated/overview.svg#gh-dark-mode-only"/><br/>
+  <img src="https://raw.githubusercontent.com/s4ndm4n82/gitstatus/master/generated/languages.svg#gh-dark-mode-only"/><br/>
   Powered by <a href="https://github.com/jstrieb/github-stats" target="_blank">github-stats</a>
 </p>
 
