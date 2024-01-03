@@ -7,7 +7,7 @@
 *  :briefcase: Owner of [SwiftScripter](https://github.com/SwiftScripters).
 *  :office: Currently I'm working for [Pro Account Lanka](https://pro-account.lk/).
 *  :book: Planing to learn <img src="Images/Logos/c_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/cplusplus_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/node_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/vue_icon.png" width="18px" width="18px"/>.
-*  :speech_balloon: Please ask me about anything about [C family](https://www.bairesdev.com/blog/c-family-programming-languages-differences).
+*  :speech_balloon: Please ask me anything about [C family](https://www.bairesdev.com/blog/c-family-programming-languages-differences).
 <p align="center">
   <img src="https://raw.githubusercontent.com/s4ndm4n82/gitstatus/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/s4ndm4n82/gitstatus/master/generated/languages.svg#gh-dark-mode-only"/><br/>
