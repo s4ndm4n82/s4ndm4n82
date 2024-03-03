@@ -4,7 +4,7 @@
 *  :keyboard: Things I type: [**C#**:heart:](https://dotnet.microsoft.com/en-us/languages/csharp) | [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) | [Bash:purple_heart:](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [PHP](https://www.php.net/) | [JavaScript](https://www.javascript.com/) | [SQL](https://en.wikipedia.org/wiki/SQL).
 *  :mechanic: I'm currently working on [DEA.NEXT](https://github.com/s4ndm4n82/DEA.Next) | [AwesomeWM CE](https://github.com/s4ndm4n82/eos-awesome-ce).
 *  :handshake: Love to collaborate on [EneavourOS](https://github.com/EndeavourOS-Community-Editions/awesome).
-*  :briefcase: Owner of [SwiftScripter](https://github.com/SwiftScripters).
+*  :briefcase: Owner of [SwiftScripters](https://github.com/SwiftScripters).
 *  :office: Currently I'm working for [Pro Account Lanka](https://pro-account.lk/).
 *  :book: Planing to learn <img src="Images/Logos/c_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/cplusplus_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/node_icon.png" width="18px" height="18px"/> | <img src="Images/Logos/vue_icon.png" width="18px" width="18px"/>.
 *  :speech_balloon: Please ask me anything about [C family](https://www.bairesdev.com/blog/c-family-programming-languages-differences).
