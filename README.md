@@ -2,7 +2,7 @@
 <h4 align="center">I'm Sandaruwan. Friends call me <i>S4NDM4N</i></h4>
 
 *  :keyboard: Things I type: [**C#**:heart:](https://dotnet.microsoft.com/en-us/languages/csharp) | [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) | [Bash:purple_heart:](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [PHP](https://www.php.net/) | [JavaScript](https://www.javascript.com/) | [SQL](https://en.wikipedia.org/wiki/SQL).
-*  :mechanic: I'm currently working on [DEA.NEXT](https://github.com/s4ndm4n82/DEA.Next) | [AwesomeWM CE](https://github.com/s4ndm4n82/eos-awesome-ce).
+*  :mechanic: I'm currently working on [DEA.NEXT](https://github.com/s4ndm4n82/DEA.Next) | [cto](https://github.com/s4ndm4n82/cto).
 *  :handshake: Love to collaborate on [EneavourOS](https://github.com/EndeavourOS-Community-Editions/awesome).
 *  :briefcase: Owner of [SwiftScripters](https://github.com/SwiftScripters).
 *  :office: Currently I'm working for [Pro Account Lanka](https://pro-account.lk/).
